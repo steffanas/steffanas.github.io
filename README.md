@@ -1,2 +1,3 @@
 # steffanas.github.io
-this is the start of this page 
+THIS IS THE README FILE FOR THE WEB DEVELOPMENT ASSIGNMENT 
+VERSION 1
