@@ -44,14 +44,15 @@ html {
     
 }
 .footer {
-    background-color: #0099cc;
+    background-color: none;
     color: black;
     text-align: center;
     font-size: 12px;
     padding: 15px;
 	position:fixed;
 	bottom:0px;
-	width:99%;
+	left:1000px;
+	width:26%;
 }
 
 #img1 {
@@ -80,9 +81,10 @@ html {
         width: 100%;
     }
 }
+ 
 body
 {
-background-image:url("../image/wood.jpg");
+background-image:url("../image/edit.jpg");
 		background-repeat:no-repeat;
 		background-position:center;
 		background-attachment:fixed;
