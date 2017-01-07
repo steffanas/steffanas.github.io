@@ -25,6 +25,10 @@ html {
     padding: 0;
 	
 }
+.lit
+{
+	height:450px;
+}
 .menu li {
     padding: 8px;
     margin-bottom: 7px;
@@ -48,17 +52,13 @@ html {
     color: black;
     text-align: center;
     font-size: 12px;
-	position:fixed;
+	position:relative;
 	bottom:0px;
 	width:100%;
 	left:0px;
 }
 
-#img1 {
-    width: 100%;
-    height: auto;
-    
-}
+
 
 /* For desktop: */
 .col-1 {width: 8.33%;}

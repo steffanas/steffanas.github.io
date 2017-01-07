@@ -48,7 +48,7 @@ html {
     color: black;
     text-align: center;
     font-size: 12px;
-	position:fixed;
+	position:relative;
 	bottom:0px;
 	width:100%;
 	left:0px;
@@ -89,4 +89,8 @@ background-image:url("../image/wood.jpg");
 		background-position:center;
 		background-attachment:fixed;
 		background-size:cover;		
+}
+.lit
+{
+	height:450px;
 }
