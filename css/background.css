@@ -14,9 +14,14 @@ html {
     font-family: "Lucida Sans", sans-serif;
 }
 .header {
+	background-image:url("../image/coffee.jpg");
+	background-repeat:no-repeat;
+	background-position:center;
+	background-attachment:absolute;
+	background-size:cover;
     background-color: none;
-    color: black;
-    padding: 15px;
+    color: white;
+    padding: 40px;
 	
 }
 .menu ul {
@@ -84,7 +89,7 @@ html {
  
 body
 {
-background-image:url("../image/wood.jpg");
+background-image:url("../image/.jpg");
 		background-repeat:no-repeat;
 		background-position:center;
 		background-attachment:fixed;
