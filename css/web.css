@@ -47,7 +47,11 @@ html {
     font-size: 14px;
     
 }
-#footer {
+.footer img{
+	 width: 50px; 
+	 height: 50px;
+}
+.footer {
     background-color: none;
     color: black;
     text-align: center;

@@ -48,7 +48,11 @@ html {
     font-size: 14px;
     
 }
-#footer {
+.footer img {
+	 width:50px; 
+	 height:50px;
+}
+.footer {
     background-color: none;
     color: black;
     text-align: center;
@@ -56,7 +60,7 @@ html {
 	position:relative;
 	bottom:0px;
 	width:100%;
-	left:0px;
+	right:0px;
 }
 }
 
@@ -87,14 +91,6 @@ html {
     }
 }
  
-body
-{
-background-image:url("../image/.jpg");
-		background-repeat:no-repeat;
-		background-position:center;
-		background-attachment:fixed;
-		background-size:cover;		
-}
 .heightbar
 {
 	height:450px;
