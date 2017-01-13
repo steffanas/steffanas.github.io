@@ -1,4 +1,7 @@
 * {
+	font-family: 'Overpass Mono', monospace;
+	font-family: 'Nunito', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
     box-sizing: border-box;
 }
 .row::after {
