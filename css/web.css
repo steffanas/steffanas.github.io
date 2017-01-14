@@ -17,8 +17,6 @@ html {
     font-family: "Lucida Sans", sans-serif;
 }
 .header {
-    background-color: none;
-    color: wh;
     padding: 15px;
 	
 }
@@ -43,7 +41,6 @@ html {
     background-color: #0099cc;
 }
 .aside {
-    background-color: none;
     padding: 15px;
     color: black;
     text-align: center;
@@ -55,7 +52,6 @@ html {
 	 height: 50px;
 }
 .footer {
-    background-color: none;
     color: black;
     text-align: center;
     font-size: 12px;
